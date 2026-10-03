@@ -1,4 +1,4 @@
-[] 1. Registro de edades
+[x] 1. Registro de edades
 // Almacena las edades de 6 estudiantes en un arreglo
 // solicita las edades mostrarlas
 // calcular la suma, el promedio y contar cuantos est son mayores de edad y cuantos menores
