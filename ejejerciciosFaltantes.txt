@@ -3,7 +3,7 @@
 // solicita las edades mostrarlas
 // calcular la suma, el promedio y contar cuantos est son mayores de edad y cuantos menores
 
-[] 2 .
+[x] 2 .
 // crear un arreglo para almacenar 8 numeros enteros
 // muestre los numeros
 // la suma de todos
