@@ -27,3 +27,12 @@ mostrar listado con nombres y notas
 indicar si cada est aprobo o reprobo
 calcular el promedio del grupo
 mostrar nombre del estudiante con la nota mas alta
+
+[] 5. // una empresa tiene 4 empleados y desea registrar
+// las ventas obtenidas durante 5 dias
+// desarrolle un programa que almacene las ventas en una matriz
+// solicite todas las ventas
+// muestre la matriz completa
+// calcule lla venta total de cada empleado
+// calcule el promedio de ventas de cada empleado
+// y determine cual empleado obtuvo el mayor total de ventas
