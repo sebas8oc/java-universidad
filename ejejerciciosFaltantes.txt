@@ -12,7 +12,7 @@
 // cuantos ceros
 // cantidad pares e impares
 
-[] 3. buscar numero
+[x] 3. buscar numero
 // solicite 10 enteros
 // pida al usuario un numero para buscar/
 // el programa debe indicar si esl n esta en el arreglo
