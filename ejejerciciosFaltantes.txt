@@ -18,3 +18,12 @@
 // el programa debe indicar si esl n esta en el arreglo
 // cuantas veces aparcece
 // y en que pocision esta
+
+
+[] 4. cree dos arreglos del mismo tamaño
+en la misma pocision debe almacenarce el nombre y la nota del mismo est
+el programa debe solicitar el nom y nota de 5 est
+mostrar listado con nombres y notas
+indicar si cada est aprobo o reprobo
+calcular el promedio del grupo
+mostrar nombre del estudiante con la nota mas alta
