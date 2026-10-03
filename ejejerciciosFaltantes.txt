@@ -1,0 +1,20 @@
+[] 1. Registro de edades
+// Almacena las edades de 6 estudiantes en un arreglo
+// solicita las edades mostrarlas
+// calcular la suma, el promedio y contar cuantos est son mayores de edad y cuantos menores
+
+[] 2 .
+// crear un arreglo para almacenar 8 numeros enteros
+// muestre los numeros
+// la suma de todos
+// cuantos positivos
+// negativos
+// cuantos ceros
+// cantidad pares e impares
+
+[] 3. buscar numero
+// solicite 10 enteros
+// pida al usuario un numero para buscar/
+// el programa debe indicar si esl n esta en el arreglo
+// cuantas veces aparcece
+// y en que pocision esta
