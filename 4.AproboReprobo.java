@@ -25,12 +25,12 @@ void main() {
 
         suma += nota[i];
 
-        if (nota[i] > mn) {
+        if (nota[i] >= mn) {
             mn = nota[i];
             posMn = i;
         }
 
-        if (i > na) {
+        if (nota[i] > na) {
             aprobo = true;
         } else {
             aprobo = false;
