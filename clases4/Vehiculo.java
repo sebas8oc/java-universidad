@@ -28,4 +28,26 @@ public class Vehiculo {
         this.litrosConsumidos = litrosConsumidos;
         this.precioLitro = precioLitro;
     };
+
+    public double calcularRendimiento() {
+        return distanciaRecorrida / litrosConsumidos;
+    }
+
+    public double calcularCostoCombustible() {
+        return litrosConsumidos * precioLitro;
+    }
+
+    public void mostrarClasificacion(double rendimiento) {
+        if (rendimiento < 8 ) {
+            System.out.println("Rendimiento Bajo");
+        } else if (rendimiento >= 8 && rendimiento <= 14 ) {
+            System.out.println("Rendimiento Medio");
+        } else {
+            System.out.println("Rendimiento Alto");
+        }
+    }
+    
+    public void mostrarInformacion() {
+        
+    }
 }
